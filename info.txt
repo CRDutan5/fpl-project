@@ -1,0 +1,60 @@
+Important Keys:
+"chance_of_playing_next_round": 100,
+"first_name": "Cole",
+"second_name": "Palmer",
+"form": "13.0",
+"id": 182,
+"in_dreamteam": true,
+"team": 6,
+"total_points": 67,
+
+
+  "goals_scored": 6,
+  "assists": 5,
+  "clean_sheets": 2,
+  "goals_conceded": 8,
+  "own_goals": 0,
+  "penalties_saved": 0,
+  "penalties_missed": 0,
+  "saves": 0,
+
+
+"news": "",
+"status": "a",
+
+
+PLAYER METRICS:
+----------------
+All:
+"chance_of_playing_next_round": 100,
+"form": "13.0",
+"first_name": "Cole",
+"second_name": "Palmer",
+"in_dreamteam": true,
+"team": 6,
+"total_points": 67,
+"status": "a",
+
+
+
+"now_cost": 108,
+
+
+
+Attacker:
+"goals_scored": 6,
+"assists": 5,
+"total_points": 67, 
+
+Midfielder:
+"goals_scored": 6,
+"assists": 5,
+"total_points": 67, 
+
+Defender:
+"clean_sheets": 2,
+"goals_conceded": 8,
+
+
+Max is 100 Million
+"now_cost": 108,
